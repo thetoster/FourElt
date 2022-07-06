@@ -1,0 +1,23 @@
+{
+  "bkg": "tlo3_16x10.png",
+  "actions": [
+    {
+      "gfx": "gfx file",
+      "sfxWhat": "sfx file, mowi który obiekt należy wybrać",
+      "sfxWhere": "sfx file, mowi gdzie ma byc wsadzony obiekt",
+      "sfxSuccess": "sfx file, grane gdy gracz wsadzi w dobre miejsce",
+      "destId": 1
+    }
+  ],
+  "zones": [
+    {
+      "id": 1,
+      "path": [
+        {
+          "x": 1,
+          "y": 2
+        }
+      ]
+    }
+  ]
+}
